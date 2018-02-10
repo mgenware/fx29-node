@@ -1,4 +1,10 @@
 # fx29-node
+
+[![MEAN Module](https://img.shields.io/badge/MEAN%20Module-TypeScript-blue.svg)](https://github.com/mgenware/MEAN-Module)
+[![Build Status](https://travis-ci.org/mgenware/fx29-node.svg?branch=master)](http://travis-ci.org/mgenware/fx29-node)
+[![npm version](https://badge.fury.io/js/fx29-node.svg)](https://badge.fury.io/js/fx29-node)
+[![Node.js Version](http://img.shields.io/node/v/fx29-node.svg)](https://nodejs.org/en/)
+
 Encode bytes to safe URL string
 
 ## Installation
