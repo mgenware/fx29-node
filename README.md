@@ -20,7 +20,7 @@ yarn test
 ## Usage
 import:
 ```js
-import fx29 from 'fx29-node`;
+import fx29 from 'fx29-node';
 // or Node.js style: const fx29 = require('fx29-node');
 ```
 
@@ -36,7 +36,7 @@ function decodeString(s: string, xor?: number): string;
 
 ### Example
 ```js
-const fx29 = require('fx29');
+const fx29 = require('fx29-node');
 
 const s = 'Hi, 😎';
 const xor = 20; // optional, for obfuscation

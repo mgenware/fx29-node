@@ -1,6 +1,6 @@
 {
   "name": "fx29-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encode bytes to safe URL string",
   "main": "dist/lib/main.js",
   "types": "dist/lib/main.d.ts",
