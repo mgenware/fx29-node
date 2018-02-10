@@ -20,7 +20,7 @@ yarn test
 ## Usage
 import:
 ```js
-import fx29 from 'fx29-node';
+import * as fx29 from 'fx29-node';
 // or Node.js style: const fx29 = require('fx29-node');
 ```
 
