@@ -8,7 +8,8 @@
   "homepage": "https://github.com/mgenware/fx29-node",
   "bugs": "https://github.com/mgenware/fx29-node/issues",
   "keywords": [
-    "bytes to string", "bytes to url"
+    "bytes to string",
+    "bytes to url"
   ],
   "repository": {
     "type": "git",
@@ -38,5 +39,7 @@
   "engines": {
     "node": ">=6.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fx28-node": "^1.0.0"
+  }
 }
