@@ -34,7 +34,7 @@ function decodeBuffer(s: string, xor?: number[]): Buffer;
 function decodeString(s: string, xor?: number[]): string;
 ```
 
-### Comparison of `
+### Comparison with other methods
 ```js
 const fx29 = require('fx29-node');
 
